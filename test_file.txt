@@ -2,3 +2,5 @@ test //
 this is the one more line 
 line for git gui
 
+add new line for revent command checking 
+
